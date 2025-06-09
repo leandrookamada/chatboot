@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
-  background-image: url(imagemFundo.png);
+  background-image: url("../public/imagemFundo.png");
   background-size: "cover";
   background-position: "center";
   background-repeat: "no-repeat";
@@ -15,7 +15,7 @@ body {
 }
 
 .chat-container {
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(0, 0, 0, 0.446);
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 24px;
   backdrop-filter: blur(20px);
